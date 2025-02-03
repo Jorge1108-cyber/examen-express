@@ -1,5 +1,5 @@
 # Integrantes
-Anniuska Araujo 
+Anniuska Araujo, 
 Jorge Paredes
 
 # Nota

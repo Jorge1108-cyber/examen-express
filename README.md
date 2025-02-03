@@ -1,3 +1,10 @@
+# Integrantes
+Anniuska Araujo 
+Jorge Paredes
+
+# Nota
+Cambiamos la ruta del puerto 3000 a 80 ya que el primero no funcionaba para hacer la prueba de la API 
+
 # Crea una api con express
 
 Imagina que trabajas para una pequeña empresa de desarrollo de software que está creando una aplicación de gestión de tareas para equipos. Necesitas diseñar la API que permitirá a los usuarios crear, leer, actualizar y eliminar tareas. Sin embargo, por ahora, la empresa no cuenta con una base de datos, por lo que deberás almacenar la información en memoria (usando un objeto o arreglo en JavaScript).
